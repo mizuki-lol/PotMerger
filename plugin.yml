@@ -1,0 +1,6 @@
+name: PotionMerger
+version: 1.0.0
+main: dev.potionmerger.PotionMergerPlugin
+api-version: '1.21'
+description: Merge up to 3 potions on a crafting table into one combined potion
+author: dev
